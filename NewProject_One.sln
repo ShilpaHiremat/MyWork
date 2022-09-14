@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewProject_One", "NewProject_One\NewProject_One.csproj", "{FBDC109A-932F-4A55-B243-B6B861695F78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumNunitFrameWork", "SeleniumNunitFrameWork\SeleniumNunitFrameWork.csproj", "{23139284-8DD2-4FB4-9602-F104F2E04364}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBDC109A-932F-4A55-B243-B6B861695F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBDC109A-932F-4A55-B243-B6B861695F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBDC109A-932F-4A55-B243-B6B861695F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBDC109A-932F-4A55-B243-B6B861695F78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23139284-8DD2-4FB4-9602-F104F2E04364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23139284-8DD2-4FB4-9602-F104F2E04364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23139284-8DD2-4FB4-9602-F104F2E04364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23139284-8DD2-4FB4-9602-F104F2E04364}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDD253D9-4922-4AAA-97A1-11FBD8821694}
+	EndGlobalSection
+EndGlobal
